@@ -1,0 +1,27 @@
+.clear {
+    padding: 0;
+    width: 18px;
+    height: 18px;
+    font-size: 10px;
+    position: absolute;
+    right: 2px;
+    top: 2px;
+}
+
+.clear--left {
+    left: 2px;
+}
+
+.wrap {
+    display: inline-block;
+    position: relative;
+}
+
+.enter-text {
+    padding-right: 20px;
+}
+
+.enter-text--left {
+    padding-left: 22px;
+    padding-right: 0;
+}
